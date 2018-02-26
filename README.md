@@ -1,5 +1,3 @@
-great AI project
+TODO:
 
-TODO
-
-most
+everything
