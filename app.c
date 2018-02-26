@@ -5,7 +5,7 @@
 #include <sys/wait.h>
   
 
-int pid;
+int pid;  
 
 static void timeout(int foo) {}
 
