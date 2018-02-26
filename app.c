@@ -1,4 +1,4 @@
-#define TIMEOUT 60*5 
+#define TIMEOUT 60*12
 
 #include <signal.h>
 #include <unistd.h>
